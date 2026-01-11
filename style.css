@@ -67,7 +67,7 @@ html, body {
     transform: translateX(-50%);
     width: 50px;
     height: 50px;
-    background: url('https://raw.githubusercontent.com/gauthyy/dashood/main/icons8-discord-logo.svg') no-repeat center center;
+    background: url('https://raw.githubusercontent.com/gauthyy/dollhouse-hangout/main/icons8-discord-logo.svg') no-repeat center center;
     background-size: contain;
     cursor: pointer;
     filter: drop-shadow(0 0 10px white); /* glowing effect */
