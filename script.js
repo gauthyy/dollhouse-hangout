@@ -32,5 +32,5 @@ document.getElementById("joinBtn").addEventListener("click", () => {
 });
 
 document.getElementById("discord-btn").addEventListener("click", () => {
-    window.open("https://discord.gg/dollhouse-hangout", "_blank");
+    window.open("https://discord.gg/dollhousehangout", "_blank");
 });
